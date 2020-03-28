@@ -15,4 +15,8 @@ class Artist
     Song.new(name, self, genre)
   end
 
+  def songs
+    Song.all.map { |song| song.artist == self }
+  end
+  
 end
