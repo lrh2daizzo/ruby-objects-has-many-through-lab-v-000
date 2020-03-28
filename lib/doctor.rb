@@ -1,4 +1,4 @@
 class Doctor
-  
+
 
 end
