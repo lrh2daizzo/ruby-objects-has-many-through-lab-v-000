@@ -1,4 +1,4 @@
 class Genre
-  
-  
+
+
 end
